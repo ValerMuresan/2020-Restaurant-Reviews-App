@@ -15,7 +15,7 @@ The project **Restaurant Reviews App** is part of [FEND](https://www.udacity.com
 The scope of the project was to convert a static webpage to a mobile ready web app.
 
 
-## Specification
+## Specifications
 
 The static webpage can be found in the [repository](https://github.com/udacity/mws-restaurant-stage-1).
 The following features were added according to requirements:
