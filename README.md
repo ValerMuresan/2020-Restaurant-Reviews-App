@@ -28,7 +28,7 @@ The following features were added according to requirements:
 
 1. Run the app locally:
 
-  + Clone the project from [here]().
+  + Clone the project from [here](https://github.com/ValerMuresan/2020-Restaurant-Reviews-App.git).
 
   + Install [Node.js](https://nodejs.org/en/) and [npmjs](https://www.npmjs.com/).
 
@@ -36,7 +36,7 @@ The following features were added according to requirements:
 
   +  With your server running, visit the site: `http://localhost:3000`, and look around for a bit to see what the current experience looks like.
 
-2. Run [online]() the app.
+2. Run [online]( https://valermuresan.github.io/2020-Restaurant-Reviews-App/) the app.
 
 
 ## Dependencies
